@@ -13,27 +13,27 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "c1933aeb3532b6c50a4f15bd4999304e"
+            "value": "DroneBots"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "21166511"
+            "value": "DroneBots"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6925149555:AAGtCYO-HQsxp9Rpfo9JiU79jxqxLfD_UVo"
+            "value": "6DroneBots"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BAFC-a8AmolUTSr1w5I4KOr9pousk7CHrcZ8WpOtJNp4pTMkBsZwrlXbZ5edLxuOX4unhnHxeAR3GN43FRirLJmo0IrIXBvB2caj_JqOsTzG4TSWFCMDZvfyXYeRLp9sxMHtiBuK7nschXLXHrAq8ruUXs0CiYmUVuRdQV2fEujlj19K0xqqUzFZpA1WckRtibSt-UnPTbho0W1hita20wwoRAN_9M1uOdYRY1Npe0men9geiONpMMbY-rueZeDDEhrhMdGi1dhDqM2JG4IqIGwuWDgs7Qmm6HwYW7sy7wzczv5KK0i29ks1EvIBmOQbH3kGqLVh0JyHhbo384hkMAdbHBNVywAAAAGcxWVzAQ"
+            "value": DroneBots"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "fadidadi77"
+            "value": "DroneBots"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "Tamersa_bot"
+            "value": "DroneBots"
         }
     },
     "buildpacks": [
